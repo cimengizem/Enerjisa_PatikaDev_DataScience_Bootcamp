@@ -1,4 +1,4 @@
-### Enerjisa Veri Bilimi ve Analitiği Bootcamp'i kapsamında verilen 1. ödevin cevapları
+## Enerjisa Veri Bilimi ve Analitiği Bootcamp'i kapsamında 2. hafta verilen 1. ödevin cevapları
 
 ### Sorular :
 
